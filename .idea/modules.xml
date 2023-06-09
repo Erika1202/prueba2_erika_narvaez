@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doodlz.iml" filepath="$PROJECT_DIR$/.idea/modules/doodlz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/doodlz.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/doodlz.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/doodlz.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/doodlz.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/doodlz.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/doodlz.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/doodlz.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/doodlz.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prueba2_erika_narvaez.iml" filepath="$PROJECT_DIR$/.idea/modules/prueba2_erika_narvaez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/prueba2_erika_narvaez.app.unitTest.iml" />
     </modules>
   </component>
 </project>
