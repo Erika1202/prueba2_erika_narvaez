@@ -1,10 +1,6 @@
 package fisei.data;
 
-/**
- * A generic class that holds a result success w/ data or an error exception.
- */
 public class Result<T> {
-    // hide the private constructor to limit subclass types (Success, Error)
     private Result() {
     }
 
@@ -20,7 +16,7 @@ public class Result<T> {
         return "";
     }
 
-    // Success sub-class
+
     public final static class Success<T> extends Result {
         private T data;
 

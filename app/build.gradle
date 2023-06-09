@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.deitel.doodlz"
         minSdkVersion 22
-        targetSdkVersion 22
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
     }
@@ -28,12 +28,16 @@ android {
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation 'com.android.support:support-annotations:22.+'
+    //noinspection GradleDependency
+    implementation 'com.android.support:support-annotations:'
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
     implementation 'android.arch.lifecycle:livedata:1.1.1'
     implementation 'android.arch.lifecycle:viewmodel:1.1.1'
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
+    //noinspection GradleCompatible
     implementation 'com.android.support:appcompat-v7:28.0.0'
+    //noinspection GradleCompatible
     implementation 'com.android.support:design:28.0.0'
+    //noinspection GradleCompatible
     implementation 'com.android.support:preference-v7:28.0.0'
 }
